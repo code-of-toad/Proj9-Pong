@@ -4,7 +4,8 @@ project(Proj9_Pong)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Proj9_Pong
-        main.cpp
+        src/main.cpp
+        src/GLOBALS.hpp
 )
 
 ############# SFML #############
