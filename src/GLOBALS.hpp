@@ -4,8 +4,8 @@
 #include <string>
 #include <SFML/Window/Keyboard.hpp>
 
-#define SCREEN_W 1280
-#define SCREEN_H 720
+#define SCREEN_W 1600 //1280
+#define SCREEN_H 900  //720
 
 #define FPS 60
 
